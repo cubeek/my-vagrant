@@ -1,0 +1,6 @@
+---
+  - hosts: all
+    roles:
+      - development
+      - devstack-all-in-one
+...
