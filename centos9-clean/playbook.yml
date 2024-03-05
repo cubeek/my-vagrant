@@ -1,0 +1,6 @@
+---
+  - hosts: all
+    roles:
+      - development
+      - rh-certificates
+...
